@@ -5,7 +5,7 @@ This repository is for maintaing java code for miscellaneous programming article
 ## 1. Board Games  
 
   1. [Sudoku Checker](http://codepumpkin.com/sudoku-checker/)
-  1. [Tik-Tak-Toe](http://codepumpkin.com/tic-tac-toe/)
+  1. [Tic-Tac-Toe](http://codepumpkin.com/tic-tac-toe/)
   1. [Snakes N Ladders](http://codepumpkin.com/snakes-n-ladders/)
 
 
