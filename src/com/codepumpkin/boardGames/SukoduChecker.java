@@ -1,4 +1,4 @@
-package com.codepumpkin;
+package com.codepumpkin.boardGames;
 
 import java.util.ArrayList;
 import java.util.HashSet;

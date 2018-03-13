@@ -1,4 +1,4 @@
-package com.codepumpkin;
+package com.codepumpkin.boardGames;
 
 import java.util.Scanner;
 
